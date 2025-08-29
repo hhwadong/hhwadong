@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello 🐉🐉
 
-<!--
-**hhwadong/hhwadong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's **Putra**, I'm a **`Computer Science Student`** from ■■■■■■■■■.
 
-Here are some ideas to get you started:
+I'm quite familiar about topics related to **Low Level Programming and Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently journeying through the broad world of **Cyber Security**.
+
+**`🏋🏻‍♂️ Gym / 📼🎧 Music / 🎸 Guitar / (っ'-')╮ =͟͟͞͞🏀 Basketball`**
+
+
+#### my traits:
+  * I'm used to turning random ideas in my head into a functional prototype, without this I would forget it in 3 seconds. **`NOT KIDDING`**
+  * I have a tendency to lose track of time when I'm immersed in research or a project.
+  * I can absorb knowledge rapidly. **`Mike Ross memory type deal`**
+  * I can gaslight myself into believing that I'm capable of mastering a new topic. **`USEFUL FOR LEARNING 1000%`**
