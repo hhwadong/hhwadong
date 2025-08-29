@@ -2,7 +2,7 @@
 
 My name's **Putra**, I'm a **`Computer Science Student`** from ■■■■■■■■■.
 
-I'm quite familiar about topics related to **Low Level Programming and Web Development**.
+I'm quite familiar about topics related to **Web Development**.
 
 Currently journeying through the broad world of **Cyber Security**.
 
