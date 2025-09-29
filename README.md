@@ -6,7 +6,7 @@ I'm quite familiar about topics related to **Web Development**.
 
 Currently journeying through the broad world of **Cyber Security**.
 
-**`🏋🏻‍♂️ Gym / 📼🎧 Music / 🎸 Guitar / (っ'-')╮ =͟͟͞͞🏀 Basketball`**
+**`🏋🏻‍♂️ Gym / 📼🎧 Music / 🎸 Guitar / (っ'-')╮ =🏀 Basketball`**
 
 
 #### my traits:
